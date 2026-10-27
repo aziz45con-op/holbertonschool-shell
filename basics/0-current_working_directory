@@ -1,2 +1,3 @@
-rent_working_director#!/bin/bash
-pwdy
+#!/bin/bash
+pwd
+
