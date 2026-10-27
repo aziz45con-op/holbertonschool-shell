@@ -1,1 +1,1 @@
-Holberton School Shell Project
+Holberton School - Low Level Programming & Shell Basics
